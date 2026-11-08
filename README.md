@@ -680,7 +680,7 @@ See the `LICENSE` file for more details.
 
 # 👨‍💻 Author
 
-### Rikuto
+### Louise
 **Robotics Data Collection & Quality Operations**
 
 Focused on robotics data quality, productivity improvement, operational excellence, continuous improvement, and future project leadership in AI and autonomous systems programs.
